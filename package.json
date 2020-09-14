@@ -4,7 +4,7 @@
     "test": "jest",
     "tdd": "jest --watch"
   },
-  "repository": "laggingreflex/repro-vue-jest-template",
+  "repository": "GadQ/vue-jest-template-alias",
   "dependencies": {
     "vue": "^2.6.10"
   },
